@@ -25,7 +25,10 @@ Firstly, the shape and color of the buttons should be decided. You can trace a r
 
 #### 2. Fusing general conductive fabric into the buttons
 In the second step, a piece of general conductive fabric that will be used for all buttons should be prepared. Then, it should be placed on the lower surface of the buttons. Generally, a piece of conductive fabric is used to conduct electricity. This general conductive fabric will be connected to the plus of a battery in the next steps. 
+<img alt="Result of the second step" src="https://github.com/miriyusifli/MultipleTextilePressureSensors/blob/master/images/Step2.jpg" width="500px">
 
 #### 3. Fusing conductive fabric for each button
 It is time to prepare different conductive fabric for each button. For each button, a small piece of conductive fabric with a tab should be cut. The tabs will be used to make connections with other parts of circuit. Then, prepared fabrics should be placed on the other piece of neoprene (top surface of the buttons). It is important to be sure that these pieces don't touch each other. Otherwise, may have electrical current between buttons. In the next phase, tab of the each button will be connected to the plus side of the corresponding LED. The purpose of creating a different piece of conductive fabric for each button is to allow each button to create its own electricity. So, each button will be able to light up only the connected LED. We will talk about the circuit in more detail in the next steps.
+<img alt="Result of the third step" src="https://github.com/miriyusifli/MultipleTextilePressureSensors/blob/master/images/Step3.jpg" width="500px">
+
 
