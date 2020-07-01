@@ -20,7 +20,8 @@ The main idea of the project is to control different colorful LEDs via fabric bu
 
 #### 1. Preparing button surfaces
 Firstly, the shape and color of the buttons should be decided. You can trace a ruler to create the stencil of the buttons. The ruler helps to make the shape of buttons the same. After getting stencil, trace it two times on a piece of neoprene and cut surpluses out. Perform this operation for both of the top and lower surfaces of the buttons.   
-![Result of the first step](https://github.com/miriyusifli/MultipleTextilePressureSensors/blob/master/images/Step1.jpg){:height="50%" width="50%"}
+<img alt="Result of the first step" src="https://github.com/miriyusifli/MultipleTextilePressureSensors/blob/master/images/Step1.jpg" width="500px">
+
 
 #### 2. Fusing general conductive fabric into the buttons
 In the second step, a piece of general conductive fabric that will be used for all buttons should be prepared. Then, it should be placed on the lower surface of the buttons. Generally, a piece of conductive fabric is used to conduct electricity. This general conductive fabric will be connected to the plus of a battery in the next steps. 
