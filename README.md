@@ -24,7 +24,7 @@ Firstly, the shape and color of the buttons should be decided. You can trace a r
 
 
 #### 2. Fusing general conductive fabric into the buttons
-In the second step, a piece of general conductive fabric that will be used for all buttons should be prepared. Then, it should be placed on the lower surface of the buttons. Generally, a piece of conductive fabric is used to conduct electricity. This general conductive fabric will be connected to the plus of a battery in the next steps. 
+In the second step, a piece of general conductive fabric that will be used for all buttons should be prepared. Then, it should be placed on the lower surface of the buttons. Generally, a piece of conductive fabric is used to conduct electricity. This general conductive fabric will be connected to the plus of a battery in the next steps.   
 <img alt="Result of the second step" src="https://github.com/miriyusifli/MultipleTextilePressureSensors/blob/master/images/Step2.jpg" width="500px">
 
 #### 3. Fusing conductive fabric for each button
